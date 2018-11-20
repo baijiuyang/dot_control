@@ -1,0 +1,3 @@
+C:\Users\Jiuyang\Documents\Visual Studio 2013\Projects\Unified dot program (DotCrtl+Cmpt)\Unified dot program\Unified dot program\Unified_dot_programContent\obj\x86\Debug\Unified_dot_programContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jiuyang\Documents\Visual Studio 2013\Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_programContent\obj\x86\Debug\Unified_dot_programContent.contentprojResolveAssemblyReference.cache
+C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_programContent\obj\x86\Debug\Unified_dot_programContent.contentprojResolveAssemblyReference.cache

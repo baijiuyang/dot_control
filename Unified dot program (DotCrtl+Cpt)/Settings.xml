@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+
+
+	<all>
+		<XDimension>1680</XDimension>
+		<YDimension>1050</YDimension>
+		<fullScreen>true</fullScreen> <!-- true or false -->
+		<boxHeight>100</boxHeight>
+		<boxWidth>600</boxWidth>
+		<edgeThickness>10</edgeThickness>
+		<samplingInterval>16</samplingInterval> <!-- must be multiple of 16 -->
+		<logPath_E>C:/Users/Public/Documents</logPath_E>
+		<logPath_T>C:/Users/Public/Documents</logPath_T>
+		<logPath_cmpt>C:/Users/Public/Documents</logPath_cmpt>
+
+	</all>
+
+	<block0>
+		<ballSpeed>375</ballSpeed>
+		<roundTimer>180000</roundTimer> 
+	</block0>
+
+	<block1>
+		<ballSpeed>300</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block1>
+
+	<block2>
+		<ballSpeed>350</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block2>
+
+	<block3>
+		<ballSpeed>400</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block3>
+
+	<block4>
+		<ballSpeed>450</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block4>
+	
+	<block5>
+		<ballSpeed>500</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block5>
+
+	<block6>
+		<ballSpeed>500</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block6>
+
+	<block7>
+		<ballSpeed>450</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block7>
+
+	<block8>
+		<ballSpeed>400</ballSpeed>
+		<roundTimer>60000</roundTimer>
+	</block8>
+
+	<block9>
+		<ballSpeed>350</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block9>
+
+	<block10>
+		<ballSpeed>300</ballSpeed>
+		<roundTimer>60000</roundTimer> 
+	</block10>
+
+	<block11>
+		<ballSpeed>375</ballSpeed>
+		<roundTimer>180000</roundTimer> 
+	</block11>
+
+
+	<cmpt>
+		<stage1Time>1400</stage1Time> <!-- intertrial interval -->
+		<stage2Time>500</stage2Time> <!-- crosshair -->
+		<stage3Time>100</stage3Time> <!-- crosshair to stimulus -->
+		<stage4Time>1500</stage4Time> <!-- reaction window -->
+		<ballSpeed>375</ballSpeed>
+		<keyboardHandleA>13765235</keyboardHandleA>
+		<keyboardHandleL>1704733</keyboardHandleL>
+	</cmpt>
+
+
+
+
+</settings>

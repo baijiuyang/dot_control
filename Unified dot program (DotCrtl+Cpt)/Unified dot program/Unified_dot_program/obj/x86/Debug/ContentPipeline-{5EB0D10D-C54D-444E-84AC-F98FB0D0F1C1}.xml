@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>A.png</Source>
+      <Name>A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\A.xnb</Output>
+      <Time>2016-01-09T12:29:13.8825264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2015-12-20T18:31:51.4613742-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BlackPixel.png</Source>
+      <Name>BlackPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\BlackPixel.xnb</Output>
+      <Time>2015-12-20T18:31:51.4769496-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cross.png</Source>
+      <Name>cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\cross.xnb</Output>
+      <Time>2016-01-09T12:15:48.4293298-05:00</Time>
+    </Item>
+    <Item>
+      <Source>L.png</Source>
+      <Name>L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\L.xnb</Output>
+      <Time>2016-01-09T12:26:16.6422238-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ATone.wav</Source>
+      <Name>ATone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\ATone.xnb</Output>
+      <Time>2015-12-20T18:31:51.4613742-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LTone.wav</Source>
+      <Name>LTone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\LTone.xnb</Output>
+      <Time>2015-12-20T18:31:51.3832653-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-12-20T18:31:51.3832653-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5EB0D10D-C54D-444E-84AC-F98FB0D0F1C1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_programContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\baijiuyang\Documents\VS Projects\Unified dot program (DotCrtl+Cpt)\Unified dot program\Unified_dot_program\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T18:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-18T20:28:45.5819339-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
